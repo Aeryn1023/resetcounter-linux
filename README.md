@@ -1,6 +1,8 @@
 # resetcounter-linux
  Welcome to the terminal-based reset counter! There are a few things worth mentioning, so I'll mention them real quick.
 
+ If you'd like to use a more complex version of this program, check out Zirmith's fork here: (https://github.com/Zirmith/resetcounter-linux)
+
  This program is something I whipped up in a matter of a couple hours, using ChatGPT for debugging purposes as I'm still learning python, and figured this was an easy enough project to make.
  The program itself takes the keyboard input "h" (As it's the default hotkey for resetting a game in RetroArch), and adds a 1 to the counter, essentially removing the need to alt-tab and manually add a 1 to a counter, saving a lot of time in the process. I'm sure there are better, more well-built applications out there that handle this kind of thing, although I haven't been able to find anything like that myself.
 
