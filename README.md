@@ -1,6 +1,4 @@
 # resetcounter-linux
-A simple reset counter for challenge runs or for hunting certain encounters in pokemon games
-
  Welcome to the terminal-based reset counter! There are a few things worth mentioning, so I'll mention them real quick.
 
  This program is something I whipped up in a matter of a couple hours, using ChatGPT for debugging purposes as I'm still learning python, and figured this was an easy enough project to make.
