@@ -1,0 +1,9 @@
+#!/usr/bin/env fish
+
+set counter 0
+
+while true
+    read -P "Press Enter to reset the game..."
+    set -x counter (math "$counter" + 1)
+    echo "Reset Counter: $counter"
+end
